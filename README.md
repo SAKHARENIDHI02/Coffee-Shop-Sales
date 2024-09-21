@@ -11,6 +11,7 @@
 
 --> Track Customer Behavior: The dashboard enables the coffee shop to track customers' interaction with different product categories and sizes.
 
+*********************************************************************************************************************************************************************************************************************
 
 2. Process:
 
@@ -26,6 +27,7 @@
 
 --> Interactivity: Filters for months and days were added to provide flexibility for analyzing data by specific time frames.
 
+*********************************************************************************************************************************************************************************************************************
 
 3. Features Details:
 
