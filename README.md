@@ -27,7 +27,7 @@
 --> Interactivity: Filters for months and days were added to provide flexibility for analyzing data by specific time frames.
 
 
-3. Details of Features:
+3. Features Details:
 
 (a) Top Banner Stats:
 
